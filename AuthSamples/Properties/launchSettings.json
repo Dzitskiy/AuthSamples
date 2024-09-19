@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AuthSamples": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

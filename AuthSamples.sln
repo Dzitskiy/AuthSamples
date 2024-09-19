@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34909.67
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication.TBA", "Authentication.TBA", "{086AA19B-024E-4B5E-AA98-8DC99AE5F45E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authentication.CBA", "Authentication.CBA", "{44CAC52B-5FBC-4A34-A603-C7E3877241D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Authorization", "Authorization", "{928E41CC-156C-4FD4-89FE-CE74B4249179}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{DD36F470-DA8B-430D-B06E-508D8E9313D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JWTRefreshToken", "JWTRefreshToken", "{F251C04E-87D9-4E2F-80D7-0274D95D8D16}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E208E82-3F1F-4B63-B529-07B3250832AF}
+	EndGlobalSection
+EndGlobal
